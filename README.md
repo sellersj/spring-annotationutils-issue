@@ -4,3 +4,6 @@ When updating spring from 5.1.x to 5.2.x the AnnotationUtils.findAnnotation meth
 that are on parent classes.
 
 This has a single test that will demo this. Change the pom version of spring to see the change in behaviour.
+
+Spring issue created
+https://github.com/spring-projects/spring-framework/issues/23929
